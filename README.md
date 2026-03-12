@@ -4,7 +4,7 @@
 
 # Tenggat Waktu : Jumat, 21 Maret pukul 23.59 WIB
 
-### *[PERINGATAN]*:  Silahkan klik "Use This Template" pada repo ini lalu kalian buat repo baru dengan format SEKURO_TUGAS_1_{Nama}_PROGRAMMING
+### *[PERINGATAN]*:  Silahkan klik "Use This Template" pada repo ini lalu kalian buat repo baru dengan format SEKURO_TUGAS_1_{Nama}_PROGRAMMING selain itu kalian *WAJIB* mengubah repo kalian ke public karena jika tidak maka tidak dapat kami nilai !
 ### *[PERINGATAN]*: Untuk Mengerjakan soal soal berikut kalian bisa akses soal nya yang terdapat pada folder soal dan kalian wajib menaruh jawaban pada folder src
 ### berikut contoh format cara menyimpan jawaban:
 ![alt text](bin/contoh.png)
@@ -72,7 +72,7 @@ OUTPUT:
 - [mcu_walker.hpp](src/oop_soal_2/mcu_walker.hpp)
 - [mcu_cam_controller.cpp](src/oop_soal_2/mcu_walker.cpp)
 
-Berikut Adalah Outputnya:
+Berikut Outputnya:
 ![alt text](bin/no2_oop.png)
 
 ## CMAKE
