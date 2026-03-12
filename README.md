@@ -23,6 +23,14 @@ Tugas Sekuro kali ini akan mengesah semua pengetahuan kalian mengenai materi yan
 
 ![alt text](bin/no1_oop.png)
 
-2) 
+2) Lengkapi dan Implementasikanlah file-file berikut agar main.cpp dapat di run dan menghasilkan output yang ada pada gambar di bawah ini,Gunakanlah prinsip-prinsip inheritance,virtual,serta static [PERINGATAN] [main.cpp](src/oop_soal_2/main.cpp) dilarang untuk diubah dihapus ataupun diedit (gunakanlah g++ untuk mengcompile file-filenya):
+- [mcu.cpp](src/oop_soal_2/mcu.cpp)
+- [mcu_walker.cpp](src/oop_soal_2/mcu_walker.cpp)
+
+Berikut Adalah Outputnya:
+![alt text](bin/no2_oop.png)
+
+## CMAKE
+
 
 ### Pengumpulan tugas akan dikumpulkan pada Google Form ini. Anda perlu kumpulkan link github yang hanya berisi package program kalian dan link google drive yang berisi video penjelasan Anda. Kalau terdapat catatan khusus untuk program Anda, maka tuliskan pada file README di link github.
