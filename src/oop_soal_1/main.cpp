@@ -12,3 +12,4 @@ int main(){
     device2->~Core_MCU();
     return 0;
 }
+
