@@ -24,17 +24,15 @@ find_package(std_msgs REQUIRED)
 
 if(BUILD_TESTING)
   # 1. Build the Attacker (Type 89B)
-add_executable(attacker_node src/attacker.cpp)
+add_executable(main src/attacker.cpp)
 ament_target_dependencies(attacker_node rclcpp std_msgs)
 
-# 2. Build the Tank System (L3)
 add_executable(tank_node src/tank_system.cpp)
 ament_target_dependencies(tank_node rclcpp std_msgs)
 
 # 3. Install the nodes so ROS 2 can find them
 install(TARGETS
-  attacker_node
-  tank_node
+
   DESTINATION lib/${PROJECT_NAME}
 )
 endif()
